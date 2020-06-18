@@ -1,0 +1,158 @@
+[
+	{
+		"name": "Neeraj Anturkar",
+		"email": "neerajanturkar@gmail.com",
+		"dob": "1995-12-20",
+		"preferedGeners": ["crime","action","mystery","comedy"]
+	},
+	{
+		"name": "Kartikey Tripathi",
+		"email": "k.kartiktripathi@gmail.com",
+		"dob": "1992-06-11",
+		"preferedGeners": ["crime","adventure","mystery","horror"]
+	},
+	{
+		"name": "Bruce Wayne",
+		"email": "brucewaye@wayneenterprises.com",
+		"dob": "1939-05-27",
+		"preferedGeners": ["crime","action","mystery","horror"]
+	},
+	{
+		"name": "Clark Kent",
+		"email": "clarkkent@dailyplanet.com",
+		"dob": "1940-06-18",
+		"preferedGeners": ["adventure","science","sci-fic","comedy"]
+	},
+	{
+		"name": "Keanu Charles Reeves",
+		"email": "keanureeves@hotmail.com",
+		"dob": "1964-09-02",
+		"preferedGeners": ["crime","action","thriller","action"]
+	},
+	{
+		"name": "Steve Rogers",
+		"email": "captainamerica@shield.com",
+		"dob": "1920-07-04",
+		"preferedGeners": ["crime","action","history","war"]
+	},
+	{
+		"name": "Steve Jobs",
+		"email": "jobs@apple.com",
+		"dob": "1955-02-24",
+		"preferedGeners": ["science","sci-fic","thriller","comedy"]
+	},
+	{
+		"name": "Dr Stephen Vincent Strange",
+		"email": "DrStrange@strange.com",
+		"dob": "1930-11-18",
+		"preferedGeners": ["Sci-Fci","drama","mystery","adventure"]
+	},
+	{
+		"name": "Tony Stark",
+		"email": "tonystark@starkindustries.com",
+		"dob": "1970-05-29",
+		"preferedGeners": ["fiction","action","science","sci-fic"]
+	},
+	{
+		"name": "Thor Odinson",
+		"email": "thor@asgard.com",
+		"dob": "1983-08-11",
+		"preferedGeners": ["adventure","mystery","action","comedy"]
+	},
+	{
+		"name": "Agent Smith",
+		"email": "smith01@matrix.com",
+		"dob": "1984-02-18",
+		"preferedGeners": ["science","crime","drama","action"]
+	},
+	{
+		"name": "Lionel Messi",
+		"email": "lionelmessi@fcbarcelona.com",
+		"dob": "1987-06-24",
+		"preferedGeners": ["sport","action","adventure","comedy"]
+	},
+	{
+		"name": "Cristiano Ronaldo",
+		"email": "cristianoronaldo@juventusfc.com",
+		"dob": "1985-02-05",
+		"preferedGeners": ["sport","comedy","crime","action"]
+	},
+	{
+		"name": "Dwayne Johnson",
+		"email": "therock@wwe.com",
+		"dob": "1972-05-02",
+		"preferedGeners": ["adventure","thriller","sport","comedy"]
+	},
+	{
+		"name": "Shahrukh Khan",
+		"email": "SRK@bollywood.com",
+		"dob": "1965-11-02",
+		"preferedGeners": ["romance","crime","action","fiction"]
+	},
+	{
+		"name": "Salman Khan",
+		"email": "salmankhan@beinghuman.com",
+		"dob": "1965-12-27",
+		"preferedGeners": ["sport","action","romance","comedy"]
+	},
+	{
+		"name": "Narendra Modi",
+		"email": "narendramodi@BJP.com",
+		"dob": "1950-09-17",
+		"preferedGeners": ["history","war","politics","western"]
+	},
+	{
+		"name": "Donald Trump",
+		"email": "donaldtrump@USA.com",
+		"dob": "1946-06-14",
+		"preferedGeners": ["crime","war","mystery","horror"]
+	},
+	{
+		"name": "Vladimir Putin",
+		"email": "vladimirputin@sovietunion.com",
+		"dob": "1952-10-07",
+		"preferedGeners": ["adventure","war","history","action"]
+	},
+	{
+		"name": "Kim Jong-un",
+		"email": "kimjong_un@nukes.com",
+		"dob": "1984-01-08",
+		"preferedGeners": ["crime","thriller","murrder","fiction"]
+	},
+	{
+		"name": "Rajinikanth",
+		"email": "rajni@thalaiva.com",
+		"dob": "1950-12-12",
+		"preferedGeners": ["crime","action","mystery","comedy", "horror", "adventure", "science", "war", "history", "drama"]
+	},
+	{
+		"name": "Peter Benjamin Parker",
+		"email": "peterparker@spiderman.com",
+		"dob": "1993-08-27",
+		"preferedGeners": ["crime","adventure","action","sci-fic"]
+	},
+	{
+		"name": "Harry James Potter",
+		"email": "harrypotter@hogwarts.com",
+		"dob": "1980-07-31",
+		"preferedGeners": ["mystery","fiction","romance","comedy"]
+	},
+	{
+		"name": "Albus Percival Wulfric Brian Dumbledore",
+		"email": "albusdumbledore@orderofphoenix.com",
+		"dob": "1881-08-25",
+		"preferedGeners": ["science","adventure","mystery","action"]
+	},
+	{
+		"name": "Lord Voldemort",
+		"email": "tomriddle@darklord.com",
+		"dob": "1926-12-31",
+		"preferedGeners": ["horror","crime","action","mystery"]
+	},
+	{
+		"name": "James Bond",
+		"email": "bond007@MI6.com",
+		"dob": "1920-11-11",
+		"preferedGeners": ["action","thriller","crime","sci-fic"]
+	}
+	]

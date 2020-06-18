@@ -1,0 +1,94 @@
+use online_entertainment
+db.createCollection('user');
+db.createCollection('tile');
+
+MATCH (t:TILE), (g:GENERE) WHERE t.id = '5e2dab41ff4be8e3f35caeeb' AND g.name IN ['non-fiction','talk show','feel good'] CREATE (t)-[r:BELONGS_TO ]->(g) RETURN r
+MATCH (t:TILE)<-[:WATCHED{like:'false'}]-(u:USER) WITH t, count(u) as total return t.tile , total ORDER BY total desct p
+
+MATCH (t:TILE)<-[:WATCHED{like:'true'}]-(u:USER)
+WITH count(t) as total, t,g
+ORDER BY total DESC
+RETURN t.tile as tile, total
+
+
+-------- Recomendations query -----------
+MATCH (u:USER)-[:PREFERS]->(genere:GENERE)
+WITH u, collect(genere.name) AS generes
+WHERE u.id = '5e315d4a7334fa1c299c205b'
+MATCH (t:TILE)-[:BELONGS_TO]->(g:GENERE)
+WHERE g.name IN generes AND NOT (t)<-[:WATCHED]-(u)
+WITH t , (count(t) * 100) /  3  AS percentage_match
+RETURN t.tile AS tile, percentage_match
+ORDER BY percentage_match DESC
+LIMIT 5
+
+
+----------- Viewing History ------------
+MATCH (t:TILE)<-[r:WATCHED]-(u:USER)
+WHERE u.id = "5e315d4a7334fa1c299c205b"
+RETURN t.tile as tile, r.like as like
+
+
+User.findByIdAndUpdate(id, {$set: req.body} , callback)
+
+MATCH (u:USER)-[r:PREFERS]->(g:GENERE)  
+WHERE u.id = "5e315d4a7334fa1c299c205b"
+DELETE r
+
+MATCH (u:USER), (g:GENERE) 
+WHERE u.id =  "5e315d4a7334fa1c299c205b"
+AND g.name IN ['horror','comedy','sit-com'] 
+CREATE (u)-[r:PREFERS]->(g) 
+RETURN r
+
+Tile.findByIdAndUpdate(id, {$set: req.body}, callback)
+
+MATCH (t:TILE), (g:GENERE) 
+WHERE t.id = id
+AND g.name IN 'horror','comedy','drama'] 
+CREATE (t)-[r:BELONGS_TO]->(g) 
+RETURN r";
+
+var user = new User(req.body);
+user.save(callback);
+
+CREATE (u:USER {id:$id}) 
+RETURN u
+
+MATCH (u:USER), (g:GENERE) 
+WHERE u.id = $id
+AND g.name IN ['comedy','drama','romance']
+CREATE (u)-[r:PREFERS]->(g) 
+RETURN r
+
+redisClient.set(user['email'], JSON.stringify(user), 'EX', 60 , callback);
+            
+
+var tile = new Tile(req.body);
+tile.save(callback);
+
+CREATE (t:TILE {id:$id , tile:$tile}) 
+RETURN t
+
+MATCH (t:TILE), (g:GENERE) 
+WHERE t.id = $id
+AND g.name IN ['comedy','drama','romance']
+CREATE (t)-[r:BELONGS_TO ]->(g) 
+RETURN r
+
+ redisClient.set(tile['tile'].toLowerCase(), JSON.stringify(tile), 'EX' , 60, callback);
+redisClient.get(req.query['email'],callback)
+User.findOne({email: req.query['email']})
+redisClient.set(user['email'], JSON.stringify(user), 'EX', 60 , callback);
+
+redisClient.scan('0', 'MATCH', search.toLowerCase(), 'COUNT', '100', callback);
+redisClient.mget(tiles, callback);
+Tile.find({'tile': new RegExp(req.query['search'], 'i') }, callback);
+
+User.findOne({email: email}).exec(callback)
+Tile.findOne({tile: tile}).exec(callback)
+
+MATCH (u:USER),(t:TILE) 
+WHERE u.id = $userId AND t.id = $tileId 
+CREATE (u)-[r:WATCHED {like:$like} ]->(t) 
+RETURN r

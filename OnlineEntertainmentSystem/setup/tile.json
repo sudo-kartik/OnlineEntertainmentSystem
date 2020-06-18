@@ -1,0 +1,393 @@
+[{ 
+	"tile" : "The Ellen DeGeneres Show",
+	"description" : "A mix of celebrity interviews, musical performers, audience participation games, and segments spotlighting real people with extraordinary stories and talents.",
+	"type" : "series",
+	"publishedOn" : "2003-09-08",
+	"duration" : "1 hr",
+	"genere": ["comedy","talk show","humor"]
+},
+{ 
+	"tile" : "My next guest Needs No Introduction with David Letterman",
+	"description" : "Comedian David Letterman interviews people he finds fascinating.",
+	"type" : "series",
+	"publishedOn" : "2018-01-12",
+	"duration" : "1 hr",
+	"genere": ["non-fiction","talk show","feel good"]
+},
+{ 
+	"tile" : "Money Heist",
+	"description" : "A group of unique robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+	"type" : "series",
+	"publishedOn" : "2017-05-02",
+	"duration" : "1 hr 10 min",
+	"genere": ["crime","action","mystery"]
+},
+{ 
+    "tile" : "Sherlock",
+    "description" : " A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "type" : "series",
+    "publishedOn" : "2010-10-24",
+    "duration" : "1 hr 28 min",
+    "genere": ["crime","drama","mystery"]
+},
+{ 
+    "tile" : "How I Met Your Mother",
+    "description" : "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother.",
+    "type" : "series",
+    "publishedOn" : "2005-09-19",
+    "duration" : "22 min",
+    "genere": ["comedy","sitcom","romance"]
+},
+{ 
+    "tile" : "Friends",
+    "description" : "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "type" : "series",
+    "publishedOn" : "1994-09-22",
+    "duration" : "22 min",
+    "genere": ["comedy","sitcom","drama"]
+},
+{ 
+    "tile" : "Breaking Bad",
+    "description" : "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "type" : "series",
+    "publishedOn" : "2008-01-20",
+    "duration" : "49 min",
+    "genere": ["crime","drama","thriller"]
+},
+{ 
+    "tile" : "House",
+    "description" : "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.",
+    "type" : "series",
+    "publishedOn" : "2004-11-16",
+    "duration" : "44 min",
+    "genere": ["drama","fiction","mystery"]
+},
+{ 
+    "tile" : "The Vampire Diaries",
+    "description" : "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horrorr lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.",
+    "type" : "series",
+    "publishedOn" : "2009-09-10",
+    "duration" : "43 min",
+    "genere": ["drama","fantasy","horror"]
+},
+{ 
+    "tile" : "The Originals",
+    "description" : "A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.",
+    "type" : "series",
+    "publishedOn" : "2013-10-03",
+    "duration" : "45 min",
+    "genere": ["drama","fantasy","horror"]
+},
+{ 
+    "tile" : "Supernatural",
+    "description" : "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons and gods that roam the earth.",
+    "type" : "series",
+    "publishedOn" : "2005-09-13",
+    "duration" : "44 min",
+    "genere": ["drama","fantasy","horror"]
+},
+{ 
+    "tile" : "Lucifer",
+    "description" : "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+    "type" : "series",
+    "publishedOn" : "2016-01-25",
+    "duration" : "42 min",
+    "genere": ["crime","drama","fantasy"]
+},
+{ 
+    "tile" : "House of Cards",
+    "description" : "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+    "type" : "series",
+    "publishedOn" : "2013-01-02",
+    "duration" : "51 min",
+    "genere": ["drama","fiction","crime"]
+},
+{ 
+    "tile" : "The Big Bang Theory",
+    "description" : "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+    "type" : "series",
+    "publishedOn" : "2006-01-05",
+    "duration" : "22 min",
+    "genere": ["comedy","fiction","romance"]
+},
+{ 
+    "tile" : "Prision Break",
+    "description" : "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.",
+    "type" : "series",
+    "publishedOn" : "2005-07-29",
+    "duration" : "44 min",
+    "genere": ["action","crime","drama"]
+},
+{ 
+    "tile" : "That '70s Show",
+    "description" : "A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.",
+    "type" : "series",
+    "publishedOn" : "2003-01-01",
+    "duration" : "22 min",
+    "genere": ["comedy","romance","sitcom"]
+},
+{ 
+    "tile" : "Game of Thrones",
+    "description" : "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+    "type" : "series",
+    "publishedOn" : "2011-04-17",
+    "duration" : "57 min",
+    "genere": ["action","adventure","drama"]
+},
+{ 
+    "tile" : "Mirzapur",
+    "description" : "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+    "type" : "series",
+    "publishedOn" : "2018-11-16",
+    "duration" : "1 hr",
+    "genere": ["action","crime","drama"]
+},
+{ 
+    "tile" : "Dogs of Berlin",
+    "description" : "A politically sensitive murder forces two disparate detectives into a battle with the Berlin underworld and a confrontation with their own corruption.",
+    "type" : "series",
+    "publishedOn" : "2018-12-07",
+    "duration" : "50 min",
+    "genere": ["action","crime","drama"]
+},
+{ 
+    "tile" : "Dexter",
+    "description" : "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+    "type" : "series",
+    "publishedOn" : "2006-10-01",
+    "duration" : "53 min",
+    "genere": ["crime","drama","mystery"]
+},
+{ 
+        "tile" : "Mr Robot",
+        "description" : "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for.",
+        "type" : "series",
+        "publishedOn" : "2015-06-24",
+        "duration" : "49 min",
+        "genere": ["crime","drama","thriller"]
+},
+{ 
+    "tile" : "Stranger Things",
+    "description" : "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+    "type" : "series",
+    "publishedOn" : "2016-07-15",
+    "duration" : "51 min",
+    "genere": ["drama","fantasy","horror"]
+},
+{ 
+    "tile" : "Modern Family",
+    "description" : "Three different but related families face trials and tribulations in their own uniquely comedic ways.",
+    "type" : "series",
+    "publishedOn" : "2009-09-23",
+    "duration" : "22 min",
+    "genere": ["comedy","drama","romance"]
+},
+{ 
+    "tile" : "Suits",
+    "description" : "On the run from a drug deal gone bad, brilliant college dropout Mike Ross, finds himself working with Harvey Specter, one of New York City's best lawyers.",
+    "type" : "series",
+    "publishedOn" : "2011-06-23",
+    "duration" : "44 min",
+    "genere": ["crime","fiction","drama"]
+},
+{ 
+    "tile" : "Sacred Games",
+    "description" : "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+    "type" : "series",
+    "publishedOn" : "2018-07-06",
+    "duration" : "50 min",
+    "genere": ["action","crime","drama"]
+},
+{ 
+    "tile" : "The Shawshank Redemption",
+    "description" : "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "type" : "movie",
+    "publishedOn" : "1994-10-14",
+    "duration" : "2 hr 22 min",
+    "genere": ["drama","fiction","crime"]
+},
+{ 
+    "tile" : "The Godfather",
+    "description" : "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "type" : "movie",
+    "publishedOn" : "1972-03-24",
+    "duration" : "2 hr 55 min",
+    "genere": ["crime","drama","action"]
+},
+{ 
+    "tile" : "The Dark Knight",
+    "description" : "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "type" : "movie",
+    "publishedOn" : "2008-07-18",
+    "duration" : "2 hr 32 min",
+    "genere": ["action","crime","drama"]
+},
+{ 
+    "tile" : "Schindler's List",
+    "description" : "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "type" : "movie",
+    "publishedOn" : "1994-02-04",
+    "duration" : "3 hr 15 min",
+    "genere": ["biography","drama","history"]
+},
+{ 
+    "tile" : "The Lord of the Rings: THe Return of the King",
+    "description" : "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "type" : "movie",
+    "publishedOn" : "2003-12-17",
+    "duration" : "3 hr 21 min",
+    "genere": ["adventure","drama","fantasy"]
+},
+{ 
+    "tile" : "Pulp Fiction",
+    "description" : "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "type" : "movie",
+    "publishedOn" : "1994-10-14",
+    "duration" : "2 hr 34 min",
+    "genere": ["crime","fiction","drama"]
+},
+{ 
+    "tile" : "The Good, the Bad and the Ugly",
+    "description" : "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "type" : "movie",
+    "publishedOn" : "1967-12-29",
+    "duration" : "2 hr 58 min",
+    "genere": ["western","fiction","crime"]
+},
+{ 
+    "tile" : "The Lord of the Rings: The Frllowship of the Ring",
+    "description" : "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "type" : "movie",
+    "publishedOn" : "2001-12-19",
+    "duration" : "2 hr 58 min",
+    "genere": ["adventure","drama","fantasy"]
+},
+{ 
+    "tile" : "Inception",
+    "description" : "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "type" : "movie",
+    "publishedOn" : "2010-07-16",
+    "duration" : "2 hr 28 min",
+    "genere": ["action","adventure","sci-fci"]
+},
+{ 
+    "tile" : "The Lord of the Rings: The Two Towers",
+    "description" : "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "type" : "movie",
+    "publishedOn" : "2002-12-18",
+    "duration" : "2 hr 59 min",
+    "genere": ["adventure","drama","fantasy"]
+},
+{ 
+    "tile" : "The Matrix",
+    "description" : "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "type" : "movie",
+    "publishedOn" : "1999-03-31",
+    "duration" : "2 hr 16 min",
+    "genere": ["action","thriller","sci-fic"]
+},
+{ 
+    "tile" : "The Silence of the Lambs",
+    "description" : "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "type" : "movie",
+    "publishedOn" : "1991-02-14",
+    "duration" : "1 hr 58 min",
+    "genere": ["crime","drama","thriller"]
+},
+{ 
+    "tile" : "Saving Private Ryan",
+    "description" : "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "type" : "movie",
+    "publishedOn" : "1998-07-24",
+    "duration" : "2 hr 49 min",
+    "genere": ["drama","war","history"]
+},
+{ 
+    "tile" : "Interstellar",
+    "description" : "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "type" : "movies",
+    "publishedOn" : "2014-11-07",
+    "duration" : "2 hr 49 min",
+    "genere": ["adventure","drama","sci-fci"]
+},
+{ 
+    "tile" : "The Prestige",
+    "description" : "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "type" : "movie",
+    "publishedOn" : "2006-10-20",
+    "duration" : "2 hr 10 min",
+    "genere": ["drama","mystery","sci-fci"]
+},
+{ 
+    "tile" : "The Departed",
+    "description" : "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "type" : "movie",
+    "publishedOn" : "2006-10-06",
+    "duration" : "2 hr 31 min",
+    "genere": ["crime","drama","thriller"]
+},
+{ 
+    "tile" : "Million Dollar Baby",
+    "description" : " A determined woman works with a hardened boxing trainer to become a professional.",
+    "type" : "movie",
+    "publishedOn" : "2005-01-28",
+    "duration" : "2 hr 12 min",
+    "genere": ["drama","sport","fiction"]
+},
+{ 
+    "tile" : "1917",
+    "description" : "Two young British soldiers during the First World War are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldiers' brothers, from walking straight into a deadly trap.",
+    "type" : "movie",
+    "publishedOn" : "2020-01-10",
+    "duration" : "1 hr 59 min",
+    "genere": ["drama","fiction","war"]
+},
+{ 
+    "tile" : "Memento",
+    "description" : "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "type" : "movie",
+    "publishedOn" : "2001-05-25",
+    "duration" : "1 hr 53 min",
+    "genere": ["mystery","thriller","fiction"]
+},
+{ 
+    "tile" : "Django Unchained",
+    "description" : "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "type" : "movie",
+    "publishedOn" : "2012-12-25",
+    "duration" : "2 hr 45 min",
+    "genere": ["drama","fiction","western"]
+},
+{ 
+    "tile" : "Avengers: Infinity War",
+    "description" : "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "type" : "movie",
+    "publishedOn" : "2018-04-27",
+    "duration" : "2 hr 29 min",
+    "genere": ["action","adventure","sci-fic"]
+},
+{ 
+    "tile" : "Avengers: Endgame",
+    "description" : "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "type" : "movie",
+    "publishedOn" : "2019-04-26",
+    "duration" : "3 hr 1 min",
+    "genere": ["action","adventure","drama"]
+},
+{ 
+    "tile" : "The Dark Knight Rises",
+    "description" : "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "type" : "movie",
+    "publishedOn" : "2012-07-20",
+    "duration" : "2 hr 44 min",
+    "genere": ["action","adventure","fantasy"]
+},
+{ 
+    "tile" : "Lincoln",
+    "description" : "As the American Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves.",
+    "type" : "movies",
+    "publishedOn" : "2012-11-16",
+    "duration" : "2 hr 30 min",
+    "genere": ["biography","drama","history"]
+}
+]
