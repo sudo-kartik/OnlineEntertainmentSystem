@@ -24,6 +24,6 @@
     "mongoose": "^5.8.9",
     "neo4j-driver": "^4.0.1",
     "nodemon": "^2.0.2",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
